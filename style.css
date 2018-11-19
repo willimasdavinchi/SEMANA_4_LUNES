@@ -1,0 +1,17 @@
+.navbar-header img{
+	max-height: 30px;
+	max-width: auto;
+}
+.jumbotron {
+	background-image: url("assets/bg2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+.row {
+	max-width: 1000px;
+	margin: 0 auto;
+	display: block;
+}
